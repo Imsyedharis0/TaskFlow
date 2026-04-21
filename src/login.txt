@@ -1,2 +1,1 @@
-Login page UI created 
-Added input validation for login 
+Login functionality added 
