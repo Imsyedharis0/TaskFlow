@@ -16,3 +16,4 @@ Development is done using feature branches, bug-fix branches, pull requests, iss
 TaskFlow is a simple task management system.
 It includes modules such as login, dashboard, and task CRUD operations.
 This project is maintained using Git and GitHub workflow practices.
+CI test update
